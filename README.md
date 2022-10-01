@@ -5,7 +5,7 @@ I like to eat just as much as the next person, but also enjoy the experience tha
 <table>
     <tr>
  
-<p class="attribution">"<a target="_blank" rel="noopener noreferrer" href="https://www.flickr.com/photos/27312908@N05/4385732951">food</a>" by <a target="_blank" rel="noopener noreferrer" href="https://www.flickr.com/photos/27312908@N05">ilyoungko</a> is licensed under <a target="_blank" rel="noopener noreferrer" href="https://creativecommons.org/licenses/by-nd/2.0/?ref=openverse">CC BY-ND 2.0 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-right: 0.125em; display: inline;"></img><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-right: 0.125em; display: inline;"></img><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" style="height: 1em; margin-right: 0.125em; display: inline;"></img></a>. </p>
+<p class="attribution">"<a target="_blank" rel="noopener noreferrer" href="https://www.flickr.com/photos/27312908@N05/4385732951">food</a>" by <a target="_blank" rel="noopener noreferrer" href="https://www.flickr.com/photos/27312908@N05">ilyoungko</a> is licensed under <a target="_blank" rel="noopener noreferrer" href="https://creativecommons.org/licenses/by-nd/2.0/?ref=openverse">CC BY-ND 2.0 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-right: 0.125em; display: inline;"src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-right: 0.125em; display: inline;"><src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" style="height: 1em; margin-right: 0.125em; display: inline;"></a>. </p>
     </tr>
 </table>
 
