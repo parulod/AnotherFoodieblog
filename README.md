@@ -2,12 +2,10 @@
 A blog about cuisines in general and from a stan point of a foodie.
 <br>
 I like to eat just as much as the next person, but also enjoy the experience that comes with it. I may not be a cook, but you do not need to be an executive chef to tell if a meal is delicious enough. Joy is a part of life, and for my fellow people who get a lot of it from food, let's traverse together through the delectible delights of this ever so fascinating menu of the world.
-<table>
-    <tr>
+
  
 "food" by ilyoungko is licensed under CC BY-ND 2.0.
-    </tr>
-</table>
+ 
 
 ## Enjoy The Experience
 Food is a luxury, and I am more than greatful to share my experience with it, with you. Food is like magic, it makes your sense tingle, and memories surface in seconds. While eating food, whether it be something like a comfort food, or something on the eccentric side that one may not be used to, it brings joy and disgust all at once. The experience of sitting down and feeling the homely aura ooze from that pot of nostaligic foods, is something I live for. The excitement of trying something new is so fun as new flavors and umami you never imagined enter you mind through the tastebuds. Go eat, another journey awaits.
