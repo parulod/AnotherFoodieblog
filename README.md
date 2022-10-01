@@ -1,12 +1,12 @@
-#This is a H1# AnotherFoodieblog
+# AnotherFoodieblog
 A blog about cuisines in general and from a stan point of a foodie.
 <br>
 I like to eat just as much as the next person, but also enjoy the experience that comes with it. I may not be a cook, but you do not need to be an executive chef to tell if a meal is delicious enough. Joy is a part of life, and for my fellow people who get a lot of it from food, let's traverse together through the delectible delights of this ever so fascinating menu of the world.
 <table>
     <tr>
-       <img>![image](https://user-images.githubusercontent.com/114511574/193378240-43e28ce5-294a-4ce7-be97-f8d519d2e529.png)
+ 
 <p class="attribution">"<a target="_blank" rel="noopener noreferrer" href="https://www.flickr.com/photos/27312908@N05/4385732951">food</a>" by <a target="_blank" rel="noopener noreferrer" href="https://www.flickr.com/photos/27312908@N05">ilyoungko</a> is licensed under <a target="_blank" rel="noopener noreferrer" href="https://creativecommons.org/licenses/by-nd/2.0/?ref=openverse">CC BY-ND 2.0 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-right: 0.125em; display: inline;"></img><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-right: 0.125em; display: inline;"></img><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" style="height: 1em; margin-right: 0.125em; display: inline;"></img></a>. </p>
 
     </tr>
 </table>
-#This is a H2# Enjoy The Experience
+
