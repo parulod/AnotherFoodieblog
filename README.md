@@ -13,5 +13,4 @@ A blog about cuisines in general and from a stan point of a foodie.
 
 ## Get To Know Me Through My **LOVE FOR FOOD**
 - **I am eater**, always have been, always will be, just like you. I find comfort in food, and I want to share my experience with others. I could sit at eat while watching Tv or my favorite show on my computer for hours (with limitations and restrictions of course). When I sit down to eat, I feel calm and relaxed like their is nothing else that I should worry or stress about other than finishing this meal in front of me, which is to say, usually never to difficult. I am no chef, but I can cook like the average body. Does that make me less qualified? Well Professionally yes, but connectively, no. I purposely share my views as a noob on cooking and eating so that others can relate. Now, my foodies, let's eat! 
-- A comfort foo for me is pancakes as my mom would always make me some and we make them together in our kitchen. They bring a fluffy sense of nostalgia.
- - [Let's eat some Pancakes](hhttps://www.allrecipes.com/recipe/162760/fluffy-pancakes/)
+- A comfort foo for me is pancakes as my mom would always make me some and we make them together in our kitchen. They bring a fluffy sense of nostalgia. [Let's eat some Pancakes](hhttps://www.allrecipes.com/recipe/162760/fluffy-pancakes/)
